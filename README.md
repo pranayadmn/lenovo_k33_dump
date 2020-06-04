@@ -1,0 +1,13 @@
+# karate-user 6.0.1 MMB29M K33_S156_170220_ROW release-keys
+- manufacturer: lenovo
+- platform: msm8937
+- codename: K33
+- flavor: karate-user
+- release: 6.0.1
+- id: MMB29M
+- incremental: K33_S156_170220_ROW
+- tags: release-keys
+- fingerprint: Lenovo/karate/K33:6.0.1/MMB29M/K33_S156_170220_ROW:user/release-keys
+- brand: Lenovo
+- branch: karate-user-6.0.1-MMB29M-K33_S156_170220_ROW-release-keys
+- repo: lenovo_k33_dump

@@ -1,0 +1,10 @@
+ro.product.model=Lenovo K33b36
+ro.product.device=K33b36
+ro.product.ota.model=LenovoK33b36_ROW
+ro.lenovo.series=Lenovo K6
+persist.radio.multisim.config=dsds
+ro.lenovo.sim=dsds
+ro.product.board=S82937DA1
+persist.sys.ovr.carriercfg=true
+
+ro.build.fingerprint=Lenovo/karate/K33b36:6.0.1/MMB29M/K33_S156_170220_ROW:user/release-keys
