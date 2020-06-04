@@ -1,0 +1,13 @@
+# karate-user 7.0 NRD90N K33_S231_171114_ROW release-keys
+- manufacturer: lenovo
+- platform: msm8937
+- codename: K33
+- flavor: karate-user
+- release: 7.0
+- id: NRD90N
+- incremental: K33_S231_171114_ROW
+- tags: release-keys
+- fingerprint: Lenovo/karate/K33:7.0/NRD90N/K33_S231_171114_ROW:user/release-keys
+- brand: Lenovo
+- branch: karate-user-7.0-NRD90N-K33_S231_171114_ROW-release-keys
+- repo: lenovo_k33_dump

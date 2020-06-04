@@ -1,0 +1,10 @@
+ro.product.model=Lenovo K33a48
+ro.product.device=K33a48
+ro.product.ota.model=LenovoK33a48_N_ROW
+ro.lenovo.series=Lenovo K6
+persist.radio.multisim.config=ssss
+ro.lenovo.sim=single
+ro.product.board=S82937CA1
+persist.sys.ovr.carriercfg=false
+
+ro.build.fingerprint=Lenovo/karate/K33a48:7.0/NRD90N/K33_S231_171114_ROW:user/release-keys
